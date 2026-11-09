@@ -1,29 +1,24 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace ExerciciosConsole
-{
+namespace ExerciciosConsole;
+
     public class Veiculo
     {
-        public decimal Velocidade { get; set;}
-
-        public void Exibir()
+        public int velocidade { get; private set; }
+        
+        public void alterarVelocidade(int ValorVelocidade)
         {
-            Console.WriteLine($"{Velocidade}");
-        }
-
-        public void DiferencaVelocidade()
-        { 
-            if(Velocidade > 0)
+            if(ValorVelocidade <= 0 || ValorVelocidade >= 200)
             {
-                 Velocidade = Velocidade;
+                Console.WriteLine("Velocidade não permitida");
             }
-           else
+            else
             {
-                Console.WriteLine("Valor não encontrado");
+                velocidade = ValorVelocidade;
             }
         }
     }
-}

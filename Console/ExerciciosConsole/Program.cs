@@ -27,7 +27,9 @@
 // Console.WriteLine($"resultado: {resultado4}");
 
 //EXERCICIO 3
+// Veiculo v1 = new Veiculo();
+// v1.alterarVelocidade(100);
 
-Veiculo v1 = new Veiculo();
-v1.Velocidade = 200m;
-v1.Exibir();
+// Console.WriteLine($"A velocidade esta em: {v1.velocidade}km/h");
+
+//EXERCICIO 4
