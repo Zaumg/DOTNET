@@ -12,7 +12,7 @@ namespace Heranca
 
         protected decimal Salario; //campo
 
-        public void Trabalhar()
+        public virtual void Trabalhar() //com o virtual, você esta dizendo que pode customizar ele
         {
             Console.WriteLine("Funcionário está executando atividades");
         }
@@ -27,5 +27,8 @@ namespace Heranca
             Nome = nome;
             Salario = salario;
         }
+
+        public abstract decimal CalcularBonus();
+       
     }
 }
