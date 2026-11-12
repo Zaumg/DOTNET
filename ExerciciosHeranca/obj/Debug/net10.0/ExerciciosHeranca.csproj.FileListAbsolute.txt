@@ -1,0 +1,15 @@
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\bin\Debug\net10.0\ExerciciosHeranca.exe
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\bin\Debug\net10.0\ExerciciosHeranca.deps.json
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\bin\Debug\net10.0\ExerciciosHeranca.runtimeconfig.json
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\bin\Debug\net10.0\ExerciciosHeranca.dll
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\bin\Debug\net10.0\ExerciciosHeranca.pdb
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.AssemblyInfoInputs.cache
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.AssemblyInfo.cs
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.csproj.CoreCompileInputs.cache
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.sourcelink.json
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.dll
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\refint\ExerciciosHeranca.dll
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.pdb
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ExerciciosHeranca.genruntimeconfig.cache
+C:\Users\57087573888\Desktop\dotnet\ExerciciosHeranca\obj\Debug\net10.0\ref\ExerciciosHeranca.dll
