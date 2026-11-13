@@ -14,7 +14,7 @@ namespace ExerciciosHeranca
 
         public void Exportar()
         {
-            Console.WriteLine("Exportando o relatóri");
+            Console.WriteLine("Exportando o relatório");
         }
     }
 }
