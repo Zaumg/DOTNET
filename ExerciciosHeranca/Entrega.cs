@@ -14,6 +14,8 @@ namespace ExerciciosHeranca
             Distancia = distancia;
         }
 
-        public abstract double CalcularFrete();
+        public abstract decimal CalcularFrete();
     }
 }
+
+//o double é melhor para calcular distancias e o decimal para preços

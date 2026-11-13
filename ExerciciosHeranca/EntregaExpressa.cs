@@ -11,9 +11,9 @@ namespace ExerciciosHeranca
         {
             
         }
-        public override double CalcularFrete()
+        public override decimal CalcularFrete()
         {
-            return Distancia * 5 + 10;
+            return (decimal)Distancia * 5 + 10;
         }
     }
 }

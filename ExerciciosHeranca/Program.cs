@@ -31,3 +31,24 @@
 // np1.Enviar();
 
 //*EXERCICIO 5
+// List<Entrega> entregas = new List<Entrega>();
+
+// entregas.Add(new EntregaExpressa(10));
+// entregas.Add(new EntregaEconomica(10));
+// entregas.Add(new RetiradaLocal(10));
+
+// foreach (Entrega entrega in entregas)
+// {
+//     Console.WriteLine("Valor dp frete: R$ " + entrega.CalcularFrete());
+// }
+
+//*EXERCICIO 6
+Relatorio r1 = new Relatorio();
+Contrato c1 = new Contrato();
+
+Console.WriteLine("Relatório:");
+r1.Imprimir();
+r1.Exportar();
+
+Console.WriteLine("\nContrato:");
+c1.Imprimir();
