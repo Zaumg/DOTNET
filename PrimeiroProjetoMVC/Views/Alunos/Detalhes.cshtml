@@ -1,0 +1,12 @@
+@model Aluno
+    @{
+        ViewData["Title"] = "Detalhes";
+    }
+
+<h1>Detalhes do Aluno selecionado</h1>
+<p><strong>Id: </strong>@Model.Id</p>
+<p><strong>Nome: </strong>@Model.Nome</p>
+<p><strong>Email: </strong>@Model.Email</p>
+<p><strong>Idade: </strong>@Model.Idade</p>
+
+<a asp-action="Index">Voltar</a>

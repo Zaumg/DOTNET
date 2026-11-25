@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Página Inicial</h1>
+<p>@ViewData["Mensagem"]</p>
+
+@if(DateTime.Now.Hour < 12)
+{
+    <p>Bom Dia!</p>
+}
+else
+{
+    <p>Boa Tarde!</p>
+}

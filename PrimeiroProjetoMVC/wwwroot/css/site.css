@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+nav a{
+  margin-right: 10px;
+}
+
+table{
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td{
+  border: 1px solid #ccc;
+  padding: 6px 12px;
+  text-align: left;
+}
+
+.erro{
+  color: red;
+  font-size: 0.9em;
+}
